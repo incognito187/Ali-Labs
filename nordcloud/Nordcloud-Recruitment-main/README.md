@@ -4,7 +4,6 @@ To start the Solution outline, I first identified the core functionality from th
 
 Solution should be based on cloud native infrastructure.
 
-
 create
 store
 shared
